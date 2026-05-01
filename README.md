@@ -6,7 +6,9 @@ It be even better to get peak at the routing table information,
 which depending on you system, the commands are different, but for Windows CMD Command: "netstat -nr", and Linux Terminal Command: "route -n".
 
 Network Scanner Tool in action below:
+
 -----------------------------------------------------------------------------------------------------
+
 python network_scanner.py --help
 Usage: network_scanner.py [options]
 
@@ -16,3 +18,6 @@ Options:
 
 
 python network_scanner.py --target [Network Address/Gateway]/[subnet-prefix]
+
+
+------------------------------------------------------------------------------------------------------
