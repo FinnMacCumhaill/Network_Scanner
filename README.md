@@ -10,14 +10,16 @@ Network Scanner Tool in action below:
 -----------------------------------------------------------------------------------------------------
 
 python network_scanner.py --help
+##
 Usage: network_scanner.py [options]
-
+#
+#
 Options:
   -h, --help          show this help message and exit
   -t IP, --target=IP  Target IP / IP range
-
-
+#
+#
 python network_scanner.py --target [Network Address/Gateway]/[subnet-prefix]
-
-
+#
+#
 ------------------------------------------------------------------------------------------------------
