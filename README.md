@@ -5,9 +5,9 @@ Note: It is recommended to ensure you know your default gateway through Windows 
 It be even better to get peak at the routing table information, 
 which depending on you system, the commands are different, but for Windows CMD Command: "netstat -nr", and Linux Terminal Command: "route -n".
 
-Network Scanner Tool in action below:
-
 -----------------------------------------------------------------------------------------------------
+
+Network Scanner Tool in action below:
 #
 python network_scanner.py --help
 
