@@ -2,7 +2,7 @@
 import socket
 import scapy.all as scapy
 import optparse
-# author: Fionn Finane
+# author: FinnMacCumhail
 # Network Scanner Algorithm
 # Objective --> Discover clients on the network.
 # To enhance the network scanner through leveraging the command line.
