@@ -1,5 +1,5 @@
 # Network_Scanner
-Created a network scanner using python, we utilised heavily Scapy, that allowed us to manipulate and analysis network traffic. We have ensured to comment as we go through the program, basic networking is a prerequisite. We have integration of the Network Scanner into a useful CLI Tool, using the optparse module.
+Created a Network Scanner using python, we utilised heavily Scapy, that allowed us to manipulate and analysis network traffic. We have ensured to comment as we go through the program, basic networking is a prerequisite. We have integration of the Network Scanner into a useful CLI Tool, using the optparse module.
 
 Note: It is recommended to ensure you know your default gateway through Windows "ipconfig" command, or Linux "ifconfig" command.
 It be even better to get peak at the routing table information, 
