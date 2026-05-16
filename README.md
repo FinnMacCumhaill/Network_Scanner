@@ -18,7 +18,7 @@ Options:
 
 ### Run this command
 ```
-python network_scanner.py -t 192.168.109.0/24
+python network_scanner.py -t [Network Address / CIDR]
 ```
 
 ---
