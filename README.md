@@ -18,7 +18,7 @@ Options:
 
 ### Run this command
 ```
-python network_scanner.py -t [Network Address / CIDR]
+python network_scanner.py -t [ CIDR ]
 ```
 
 ---
