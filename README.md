@@ -18,7 +18,7 @@ Options:
 
 ### Run this command
 ```
-python network_scanner.py -t [ CIDR ]
+python network_scanner.py -t [CIDR]
 ```
 
 ---
