@@ -1,11 +1,13 @@
 # Network_Scanner
-Created a Network Scanner using python, we utilised heavily Scapy, that allowed us to manipulate and analysis network traffic. We have ensured to comment as we go through the program, basic networking is a prerequisite. We have integration of the Network Scanner into a useful CLI Tool, using the optparse module.
+- Created a Network Scanner using python, we utilised heavily Scapy, that allowed us to manipulate and analysis network traffic. 
+- We have ensured to comment as we go through the program, basic networking is a prerequisite.
+- We have integration of the Network Scanner into a useful CLI Tool, using the optparse module.
 
-**Note:**
- > It is recommended to ensure you know your default gateway through Windows "ipconfig" command, or Linux "ifconfig" command.
- > It be even better to get peak at the routing table information, which depending on you system, the commands are different, but for Windows CMD Command: "netstat -nr", and Linux Terminal Command: "route -n".
+## **Note**
+  - It is recommended to ensure you know your default gateway through Windows "ipconfig" command, or Linux "ifconfig" command.
+  - It be even better to get peak at the routing table information, which depending on you system, the commands are different, but for Windows CMD Command: "netstat -nr", and Linux Terminal Command: "route -n".
 
-# **Network Scanner Tool**
+## **Network Scanner Tool**
 
 ```
 Usage: network_scanner.py [options]
@@ -15,14 +17,14 @@ Options:
   -t IP, --target=IP  Target IP / IP range
 ```
 
-### Run this command
+## Run this command
 ```
 python network_scanner.py -t [CIDR]
 ```
 
 ---
 
-# **Network Scan Table**
+## **Network Scan Table**
 
 | **[IP](ca://s?q=Explain_IP_addresses)** | **[MAC Address](ca://s?q=Explain_MAC_addresses)** | **[Hostname](ca://s?q=Explain_hostnames)** |
 |-----------------------------------------|---------------------------------------------------|---------------------------------------------|
